@@ -13,5 +13,6 @@
     "global": "^4.4.0",
     "js-prover": "workspace:*",
     "typescript": "^4.8.4"
-  }
+  },
+  "type": "module"
 }
